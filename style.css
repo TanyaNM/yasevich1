@@ -1,0 +1,45 @@
+body {
+    font-family:Courier New, monospace ;
+}
+
+h1 {
+    text-align: center;
+
+}
+.mj{
+height: 300px;
+width: 250px;
+}
+.e{
+height: 300px;
+width: 250px;
+
+}
+nav a{   
+padding: 15px;
+margin: 20px;
+text-decoration: none;
+border: 5px solid red;
+
+}
+.kopf{
+height: 300px;
+width: 200px;
+}
+.g{
+padding: 15px;
+margin: 20px;
+text-decoration: none;
+border: 5px solid navy;
+
+
+}
+nav{
+    text-align: center;
+}
+body{
+    background-color: lightgrey;
+}
+footer{
+    background-color: gray;
+}
